@@ -41,6 +41,15 @@
   box-sizing: border-box;
 }
 
+#picture{
+  text-align: Center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+
 #pageTitle{
   margin: 10;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
